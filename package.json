@@ -1,0 +1,23 @@
+{
+  "name": "AbnormalMonitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "error-stack-parser": "^2.0.6",
+    "glob": "^7.2.0",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "koa2-cors": "^2.0.6",
+    "log4js": "^6.3.0",
+    "source-map": "^0.7.3",
+    "stacktracey": "^2.1.7"
+  }
+}

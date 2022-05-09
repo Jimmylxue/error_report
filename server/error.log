@@ -1,0 +1,1261 @@
+[2021-12-21T14:53:22.080] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 30979,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:30979:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11595,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11595:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11644,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11644:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11704,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11704:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31061,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31061:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38809,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38809:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19001,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19001:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30938,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30938:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30819,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30819:15'
+  }
+]
+[2021-12-21T14:55:16.057] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T14:56:59.489] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T14:58:16.098] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 30979,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:30979:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11595,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11595:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11644,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11644:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11704,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11704:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31061,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31061:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38809,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38809:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19001,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19001:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30938,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30938:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30819,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30819:15'
+  }
+]
+[2021-12-21T14:58:56.051] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 30979,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:30979:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11595,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11595:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11644,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11644:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11704,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11704:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31061,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31061:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38809,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38809:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19001,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19001:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30938,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30938:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30819,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30819:15'
+  }
+]
+[2021-12-21T14:59:31.648] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 30979,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:30979:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11595,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11595:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11644,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11644:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11704,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11704:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31061,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31061:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38809,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38809:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19001,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19001:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30938,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30938:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30819,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30819:15'
+  }
+]
+[2021-12-21T15:00:01.147] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T15:00:32.689] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T15:00:41.498] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T15:07:10.171] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T15:08:32.996] [INFO] default - []
+[2021-12-21T15:10:13.403] [INFO] default - []
+[2021-12-21T15:13:59.436] [INFO] default - undefined
+[2021-12-21T15:19:42.260] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T15:25:49.442] [INFO] default - [
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null },
+  { source: null, line: null, column: null, name: null }
+]
+[2021-12-21T15:29:33.620] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:29:48.938] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:29:51.383] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:29:54.505] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:30:02.598] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:30:12.214] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:32:28.487] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:33:05.294] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:33:07.030] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:33:10.134] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:33:29.072] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:33:31.462] [INFO] default - [
+  {
+    columnNumber: 136129,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136129'
+  },
+  {
+    columnNumber: 136355,
+    lineNumber: 2,
+    fileName: 'http://127.0.0.1:5500/react-sample/build/static/js/main.js',
+    source: '    at http://127.0.0.1:5500/react-sample/build/static/js/main.js:2:136355'
+  }
+]
+[2021-12-21T15:34:02.336] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:34:15.665] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:35:00.928] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:36:11.517] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:36:13.924] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:38:16.329] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:40:05.013] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:45:06.955] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:54:05.749] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:54:07.657] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:56:36.594] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:56:38.921] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:57:09.938] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:57:12.418] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:58:41.676] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:58:43.344] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T15:59:58.742] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:00:02.054] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:02:25.705] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:03:50.780] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:03:52.340] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:04:39.820] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:05:27.083] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:06:17.150] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:06:49.764] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:06:54.594] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:06:56.871] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:18.920] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:21.340] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:36.831] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:37.082] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:39.442] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:42.905] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:07:44.601] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:08:11.022] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:08:11.285] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:08:13.815] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:09:05.498] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:09:07.347] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:09:23.918] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:09:25.539] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:09:32.221] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:09:34.476] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:10:19.943] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:10:21.818] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:10:36.996] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:10:38.568] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:11:11.307] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:11:13.188] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:11:57.347] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:11:59.711] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:13:19.393] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:13:46.543] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:14:21.473] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:14:43.337] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:15:15.319] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:15:15.550] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:15:46.732] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:15:53.415] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:16:00.604] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:16:13.915] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 31055,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:31055:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11671,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11671:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11720,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11720:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11780,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11780:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31137,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31137:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38885,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38885:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19077,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19077:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 31014,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:31014:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30895,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30895:15'
+  }
+]
+[2021-12-21T16:16:54.779] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:16:55.579] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 31060,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:31060:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11676,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11676:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11725,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11725:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11785,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11785:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31142,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31142:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38890,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38890:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19082,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19082:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 31019,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:31019:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30900,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30900:15'
+  }
+]
+[2021-12-21T16:17:08.562] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:17:09.686] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 31027,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:31027:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11643,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11643:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11692,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11692:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11752,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11752:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31109,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31109:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38857,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38857:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19049,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19049:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30986,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30986:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30867,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30867:15'
+  }
+]
+[2021-12-21T16:17:46.523] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:17:49.927] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:17:55.814] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:18:10.221] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:19:41.497] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:31:50.936] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:33:37.643] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:33:37.823] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:34:04.199] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:34:04.414] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:34:04.586] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:34:32.358] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:36:11.838] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:36:25.093] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:44:22.882] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:45:08.774] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:46:55.334] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:46:55.540] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:46:55.717] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:49:06.320] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 31027,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:31027:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11643,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11643:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11692,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11692:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11752,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11752:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31109,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31109:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38857,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38857:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19049,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19049:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30986,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30986:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30867,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30867:15'
+  }
+]
+[2021-12-21T16:49:07.554] [INFO] default - [
+  {
+    columnNumber: 17,
+    lineNumber: 87,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:87:17'
+  },
+  {
+    columnNumber: 24,
+    lineNumber: 31027,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokePassiveEffectCreate',
+    source: '    at invokePassiveEffectCreate (http://localhost:3000/static/js/bundle.js:31027:24)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 11643,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'HTMLUnknownElement.callCallback',
+    source: '    at HTMLUnknownElement.callCallback (http://localhost:3000/static/js/bundle.js:11643:18)'
+  },
+  {
+    columnNumber: 20,
+    lineNumber: 11692,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'Object.invokeGuardedCallbackDev',
+    source: '    at Object.invokeGuardedCallbackDev (http://localhost:3000/static/js/bundle.js:11692:20)'
+  },
+  {
+    columnNumber: 35,
+    lineNumber: 11752,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'invokeGuardedCallback',
+    source: '    at invokeGuardedCallback (http://localhost:3000/static/js/bundle.js:11752:35)'
+  },
+  {
+    columnNumber: 13,
+    lineNumber: 31109,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffectsImpl',
+    source: '    at flushPassiveEffectsImpl (http://localhost:3000/static/js/bundle.js:31109:13)'
+  },
+  {
+    columnNumber: 16,
+    lineNumber: 38857,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'unstable_runWithPriority',
+    source: '    at unstable_runWithPriority (http://localhost:3000/static/js/bundle.js:38857:16)'
+  },
+  {
+    columnNumber: 14,
+    lineNumber: 19049,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'runWithPriority$1',
+    source: '    at runWithPriority$1 (http://localhost:3000/static/js/bundle.js:19049:14)'
+  },
+  {
+    columnNumber: 18,
+    lineNumber: 30986,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    functionName: 'flushPassiveEffects',
+    source: '    at flushPassiveEffects (http://localhost:3000/static/js/bundle.js:30986:18)'
+  },
+  {
+    columnNumber: 15,
+    lineNumber: 30867,
+    fileName: 'http://localhost:3000/static/js/bundle.js',
+    source: '    at http://localhost:3000/static/js/bundle.js:30867:15'
+  }
+]
+[2021-12-21T16:49:14.612] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:49:15.545] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T16:58:22.104] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:01:00.223] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:01:29.399] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:03:16.335] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:03:49.821] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:04:22.992] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:04:23.907] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
+[2021-12-21T17:04:39.533] [INFO] default - [
+  { source: 'index.js', line: 36, column: 11, name: 'stack' },
+  { source: 'index.js', line: 21, column: 16, name: 'args' }
+]
